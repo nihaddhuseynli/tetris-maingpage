@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    border:0;
+}
+
+h{
+    font-size: 80px;
+    text-align: center;
+    margin-left: 40%;
+    
+}
+a{
+    
+    font-size: 30px;
+    margin-left: 240px;
+    text-decoration: none;
+    
+}
+.control{
+    margin-left: 260px;
+}
+.tetris{
+
+    background: url("./tetris_background.jpg");
+    background-position: center;
+    width: 1280px;
+    height: 588px;
+}
